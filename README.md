@@ -3,8 +3,8 @@
 An analysis of how different track characteristics (duration, valence, loudness, instrumentalness) influence popularity on Spotify.
 
 ## Quick Links
-- [Full PDF Report](spotify-popularity-analysis.pdf)
-- [R Markdown Source](spotify-popularity-analysis.Rmd)
+- [Full PDF Report](spotify_popularity_analysis.pdf)
+- [R Markdown Source](spotify_popularity_analysis.Rmd)
 
 ## Key Findings
 - The louder the track, the more popular it will be.
