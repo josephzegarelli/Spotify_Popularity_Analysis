@@ -13,7 +13,7 @@ An analysis of how different track characteristics (duration, valence, loudness,
 - Valence (happiness) has minimal effect on popularity.
 
 ## Popularity by Duration
-![Popularity by Duration]([Figures_Spotify_Popularity_Analysis/duration_vs_popularity.png)
+![Popularity by Duration](Figures_Spotify_Popularity_Analysis/instrumentalness_vs_popularity.png)
 
 ## Popularity by Loudness
 ![Popularity by Loudness](figures(Spotify_Popularity_Analysis)/loudness_vs_popularity.png)
